@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 , I'm Lexa ![](https://hit.yhype.me/github/profile?user_id=48092847)
+
+- 🔭 I’m currently managing linux server as hobby
+- 🌱 I’m currently learning php, python, bash
+- 📌 Currently school in Open Univercity
+
+
 
 <!--
 **lexavey/lexavey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
