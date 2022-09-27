@@ -11,7 +11,7 @@ Learn to be better
 ![](https://komarev.com/ghpvc/?username=lexavey&color=dc143c&label=Profile+Hits)
 
 
-<a href="https://github.com/nschloe">
+<a href="https://github.com/lexavey">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lexavey&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexavey&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </a>
