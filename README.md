@@ -1,4 +1,4 @@
-Lexa from indonesia, playing around with code as a hobby
+Playing around with code as a hobby
 
 Learn to be better
 <img src="https://camo.githubusercontent.com/e36c922281c41342e4d85900bc871f84bea61094f974b152cd06f67544897c83/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f546b38306f54387672475a694838557131752f67697068792e676966" align="right" width="20%"/>
